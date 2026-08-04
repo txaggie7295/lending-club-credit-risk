@@ -125,7 +125,7 @@ viable and triggers fair lending scrutiny.
 
 ## Presentation
 
-[View the full presentation on Canva](https://www.canva.com/your-link-here)
+[View the full presentation on Canva](https://canva.link/2mder7qnsyp992a)
 
 ---
 
