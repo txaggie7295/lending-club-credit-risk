@@ -150,8 +150,7 @@ lending-club-credit-risk/
 │   ├── policy_simulation.csv        # 8-row threshold analysis table
 │   └── roc_curves_final.csv         # ROC curve data for visualization
 ├── tableau/
-│   ├── LendingClub_CreditRisk.twbx  # Tableau workbook
-│   └── lending_club_vintage_v2.csv  # Vintage analysis data source
+│   └── LendingClub_CreditRisk.twbx  # Tableau workbook
 └── docs/
     └── Symons_Jeffrey_CapstoneProposal.md
 ```
